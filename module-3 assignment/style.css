@@ -26,6 +26,34 @@ button{
     vertical-align: center;
     margin-top: 30px;
 }
+#collapsable-nav{
+    background-color: #e7e7e7;
+}
+#nav-list{
+    text-decoration: none;
+    text-align: center;
+    color: black;
+    font-size: 1.3em;
+    list-style-type: none;
+    
+}
+hr{
+   border: 1px black!important ;
+   width: 100%;
+   margin-left: 0;
+   margin-right: 0;
+   
+    
+}
 
+#para{
+    margin-bottom: 20px;
+}
+#main{
+    border: 1px solid black;
+    background-color: #A0A0A0;
+    color: black;
+    margin-top: 30px;
+}
     
 
