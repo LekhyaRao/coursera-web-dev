@@ -26,15 +26,14 @@ button{
     vertical-align: center;
     margin-top: 30px;
 }
-#nav-list{
-    background-color: #e7e7e7;
-}
+
 #nav-list{
     text-decoration: none;
     text-align: center;
     color: black;
     font-size: 1.3em;
     list-style-type: none;
+    background-color: #e7e7e7;
     
 }
 hr{
